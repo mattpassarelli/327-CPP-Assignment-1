@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//fucking git amiright
 int num = 24;
 
 int main() {
