@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//
+
 int num = 24;
 
 int main() {
